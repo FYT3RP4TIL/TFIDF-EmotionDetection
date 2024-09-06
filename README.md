@@ -1,7 +1,7 @@
 <h1 align="center">
   🎭 Emotion Detection in Text:<br>
   A Deep Dive into Sentiment Analysis<br>
-  Via N-Grams and TFIDF
+  Via TFIDF and N-Grams
 </h1>
 
 ## 📊 Project Overview
