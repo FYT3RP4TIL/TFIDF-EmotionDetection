@@ -1,4 +1,8 @@
-# 🎭 Emotion Detection in Text: A Deep Dive into Sentiment Analysis
+<h1 align="center">
+  🎭 Emotion Detection in Text:<br>
+  A Deep Dive into Sentiment Analysis<br>
+  Via N-Grams and TFIDF
+</h1>
 
 ## 📊 Project Overview
 
@@ -253,31 +257,31 @@ After extensive experimentation and analysis, we can draw several important conc
 
 While our current models have achieved impressive results, there are several exciting avenues for further research and improvement:
 
-1. 🧠 **Deep Learning Exploration**: 
+1. **Deep Learning Exploration**: 
    - Implement and evaluate deep learning models such as LSTM (Long Short-Term Memory) or BERT (Bidirectional Encoder Representations from Transformers)
    - Explore the potential of transfer learning using pre-trained language models
 
-2. 🌈 **Expanded Emotion Categories**: 
+2. **Expanded Emotion Categories**: 
    - Extend the model to classify a broader range of emotions (e.g., surprise, disgust, sadness)
    - Investigate multi-label classification for texts expressing multiple emotions
 
-3. 🔄 **Advanced Cross-Validation**: 
+3. **Advanced Cross-Validation**: 
    - Implement k-fold cross-validation for more robust model evaluation
    - Explore stratified sampling techniques to ensure balanced representation of emotions in all folds
 
-4. 🌐 **Real-Time Application Development**: 
+4. **Real-Time Application Development**: 
    - Develop a web application or API for real-time emotion detection in text
    - Integrate the emotion detection system with chatbots or social media analysis tools
 
-5. 📊 **Feature Importance Analysis**: 
+5. **Feature Importance Analysis**: 
    - Conduct in-depth analysis of feature importance to understand key indicators of different emotions
    - Use this insight to further refine preprocessing and feature selection techniques
 
-6. 🔍 **Error Analysis**: 
+6. **Error Analysis**: 
    - Perform detailed error analysis to identify common misclassifications
    - Use these insights to develop targeted improvements in preprocessing or model architecture
 
-7. 🌍 **Multilingual Expansion**: 
+7. **Multilingual Expansion**: 
    - Extend the emotion detection capabilities to multiple languages
    - Investigate cross-lingual emotion detection techniques
 
